@@ -1,0 +1,95 @@
+.navbar {
+    background-color: #40026C !important;
+    margin-bottom: 2%;
+    border-radius: 8px;
+    
+}
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+.card {
+    background-color: #40026C !important;
+    border-radius: 10px;
+    align-content: space-between;
+
+    
+    
+}
+
+.card-text{
+    color: #fff !important;
+}
+
+h3 {
+    text-align: center;
+  }
+
+h5{
+    color: #fff !important;
+}
+
+#output{
+    margin-left: 12%;      
+    width: auto;
+    margin-bottom: 2%;
+    border-radius: 8px;
+}
+
+.btn{
+    background-color: #97c932 !important;
+    border-radius: 8px;
+}
+
+#btn-cards{
+    margin-left: 22%;
+}
+
+#parceiros,
+#localizacao{
+    background-color: #a3a3c2;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+#margem-parceiros{
+    margin-left: 5px;
+    margin-bottom: 8%;
+}
+
+#alinhamento{
+    text-align: center;
+}
+
+.w-100{
+     margin-top: 2%;
+     margin-bottom: 2%;
+}
+
+#botao-achar{
+    margin-top: 2%;
+}
+
+footer{
+    margin-top: 2%;
+    background-color: #40026C;
+    border-radius: 8px;
+    -moz-box-shadow: 0 0 5px 3px #888;-webkit-box-shadow: 0 0 5px 3px#888;box-shadow: 0 0 5px 3px #888
+}
+
+#midias-sociais{
+    margin: 15px;
+    text-align: center;
+    color: #fff !important;
+    
+}
+
+#logos-sociais{
+    
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
